@@ -10,7 +10,7 @@ DTSA 5510 Final Project
    - Data Cleaning
    - Visualizations
 4. Models
-   - Unsupervised Learning:
+   - Unsupervised Learning
      - T-SNE
      - PCA
      - KMeans
